@@ -1,6 +1,6 @@
 # Garage
 A garage management system built in C# as part of a home exercise. 
-The system uses complex and different data structures, using enums, interface and inheritance.
+The system uses complex and different data structures, using OOP, enums and inheritance.
 # Vehicles
 - Motorcycle
 - Electric Motorcycle
